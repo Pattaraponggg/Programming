@@ -1,6 +1,6 @@
 a="---You Score---"
 print(a)
-b="Foundation English:10"
+b="Foundation English:10.1"
 print(b)
 c="Geueral Business:20"
 print(c)
